@@ -1,0 +1,2 @@
+# ArtGan
+Generating artwork 
